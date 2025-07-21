@@ -25,6 +25,6 @@ It then calculates the components required to build each item and generates the 
 
 ---
 
-###Project Goal
+### Project Goal
 
 One of my main goals in developing this tool was to strengthen my understanding of database architecture and clean backend design. In previous projects, I’ve often worked with cluttered or inconsistent frameworks set up by teammates, which made collaboration and scaling frustrating. This time, I focused on creating a well-organized and intuitive database structure that allows the program to pull data reliably and operate with precision — and I’m proud of how seamlessly it performs.
